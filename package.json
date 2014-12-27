@@ -9,7 +9,8 @@
   "dependencies": {
     "async": "^0.9.0",
     "grunt-cli": "^0.1.13",
-    "inquirer": "^0.8.0"
+    "inquirer": "^0.8.0",
+    "q" : "1.0.1"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -21,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/watilde/gistjs.git"
+    "url": "git://github.com/sfpgmr/gistjs.git"
   },
   "keywords": [
     "gist",
